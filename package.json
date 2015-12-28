@@ -9,7 +9,6 @@
   },
   "dependencies": {
     "fs-extra": "^0.12.0",
-    "httpsync": "0.0.8",
     "lodash": "^2.4.1",
     "urllib-sync": "^1.0.1"
   },
